@@ -1,0 +1,36 @@
+2017-02-03 09:42:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "IUSERS" not found; SQL statement:
+SELECT * FROM IUSERS [42102-192]
+2017-02-03 09:42:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT * FROM USERS [42102-192]
+2017-02-03 09:43:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+SELECT * FROM USER [42102-192]
+2017-02-03 09:43:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADMIN" not found; SQL statement:
+SELECT * FROM admin [42102-192]
+2017-02-03 09:43:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+SELECT * FROM user [42102-192]
+2017-02-03 09:45:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ROLE" not found; SQL statement:
+SELECT * FROM role [42102-192]
+2017-02-03 09:46:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SA" not found; SQL statement:
+SELECT * FROM SA [42102-192]
+2017-02-03 09:46:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ROLE" not found; SQL statement:
+SELECT * FROM role [42102-192]
+2017-02-03 09:46:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "ADMIN" not found; SQL statement:
+SELECT * FROM admin [42102-192]
+2017-02-03 09:46:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SA" not found; SQL statement:
+SELECT * FROM sa [42102-192]
+2017-02-03 09:46:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USERS" not found; SQL statement:
+SELECT * FROM users [42102-192]
+2017-02-03 09:46:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+SELECT * FROM user [42102-192]

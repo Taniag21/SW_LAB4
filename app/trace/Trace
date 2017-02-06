@@ -1,0 +1,7 @@
+An admin types in their credentials and logs into the system, the admin AdminController class checks 
+if the the credentials entered by the user matches the expected values. 
+The AuthAdmin class calls the User.getUserById(id) method, which passes the users email address(id) of the logged in user. 
+If the type returned is Admin then access is granted. 
+
+When a product categroy is updated the id, name and an array of products are passed through the constructor to be created and
+setters are used to create the them.
